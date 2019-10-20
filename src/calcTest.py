@@ -4,3 +4,5 @@ num2 = float(input("enter a number: "))
 
 if op=="+":
     print(str(num1)+" + "+ str(num2) + " = " +str((num1+num2)))
+elif op=="-":
+    print(str(num1)+" - "+ str(num2) + " = " +str((num1-num2)))
